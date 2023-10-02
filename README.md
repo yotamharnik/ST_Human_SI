@@ -5,8 +5,8 @@ The code to generate intermediary input is not provided and can be provided upon
 
 ## Prerequisites
 
-* Download RAW and intermediary input data files: 
-* Unpack DATA directory to the source directory of the main script.  
+* Download RAW and intermediary input data files: [DOI 10.5281/zenodo.8396559](https://zenodo.org/record/8396559/files/Data.zip?download=1) 
+* Unpack to the source directory of the main script.  
 * Matlab R2023a
 
 ## Notes
