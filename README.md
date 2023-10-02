@@ -5,7 +5,8 @@ The code to generate intermediary input is not provided and can be provided upon
 
 ## Prerequisites
 
-* RAW and intermediary input data files:  
+* Download RAW and intermediary input data files: 
+* Unpack DATA directory to the source directory of the main script.  
 * Matlab R2023a
 
 ## Notes
