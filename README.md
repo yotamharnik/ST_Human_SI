@@ -2,7 +2,7 @@
 
 Code and functions to process spatial transcriptomic (10X Visium) data (RAW) of the human small intestine. Run the main script to produce the processed data that was used to support the results in the manuscript "A spatial expression atlas of *he adult human small intestine".
 
-# Processed data includes:
+### Processed data includes:
 - RAW and Normalized Visium Data.
 - Patient metadata.
 - Spatial metadata.
