@@ -17,7 +17,8 @@ Code and functions to process spatial transcriptomic (10X Visium) data (RAW) of 
 
 * Download RAW and intermediary input data files: [DOI 10.5281/zenodo.8396559](https://zenodo.org/record/8396559/files/Data.zip?download=1) 
 * Unpack the zip to the source directory of the main script (...\main\).
-* Run the main script: import_and_process_visium_data.m      
+* Run the main script: import_and_process_visium_data.m
+* run time 3-5 min.      
 
 ## Notes
 
