@@ -153,6 +153,6 @@ vall.cell_type_struct = v{1}.cell_type_struct;
 vall.lineage_struct = v{1}.lineage_struct;
 
 %% save **uncoment to save - takes time and space :)
-% save X:\Common\Lab_Papers\zonation_human_villus\Analysis\Data\processed\v_0323.mat v -v7.3
-% save X:\Common\Lab_Papers\zonation_human_villus\Analysis\Data\processed\vall_0323.mat vall -v7.3
 
+save([processed_data_path,'\v_0323.mat'],'v','-v7.3')
+save([processed_data_path,'\vall_0323.mat'],'vall','-v7.3')
