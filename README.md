@@ -26,4 +26,3 @@ Code and functions to process spatial transcriptomic (10X Visium) data (RAW) of 
 
 * Crypt-villus gene expression zonation profiles can be browsed via our web-app: https://itzkovitzwebapps.weizmann.ac.il/webapps/home/session.html?app=Human_villus_zonation1_1
 * processed zonation tables are provided as supplementary tables in the manuscript. 
-* Code to generate intermediary results can be provided upon request.
